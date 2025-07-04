@@ -1,6 +1,6 @@
 # planpill
 
-용산 새싹 플랜필 프로젝트 - 약알람계획
+용산 새싹 플랜필 프로젝트 - 약알람계획 copy입니다
 
 ## Getting Started
 
